@@ -1,7 +1,5 @@
 # epaytokencontract
-
-SHIKO - SMART CONTRAT
-SHIKO is a 100% community-driven decentralized utility token. It first introduced an automated liquidity system that facilitates swaps and rewards its holders on every transaction. Next, our SHIKO ecosystem will aim to better the crypto world and increase trading efficiency. Come join us today on the SHIKO spaceship and travel to Mars in style!
+EPAY Token; It is a new project that emerged within the scope of EasyPay, which aims to be an alternative exchange method in various sectors such as food, restaurant, finance and business. EPAY Token team focuses on very fast solution with cryptocurrency by eliminating complexity in payments, high transaction fees and different currencies.
 
 Website
 https://www.epaymentcoin.com/
